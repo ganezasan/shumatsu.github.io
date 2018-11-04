@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: ./docker/jekyll/Dockerfile
-    command: bundle exec jekyll serve --force_polling --host 0.0.0.0 --incremental
+    command: bundle exec jekyll serve --force_polling --host 0.0.0.0 --incremental --watch
     ports:
       - "4000:4000"
     volumes:
