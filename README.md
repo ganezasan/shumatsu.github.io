@@ -1,3 +1,13 @@
-# Yattecast
+# 週末ラヂオ
 
-https://r7kamura.github.io/yattecast/
+## quick start
+
+```
+docker-compose up -d
+```
+
+## bash
+
+```
+docker-compose exec jekyll bash
+```
