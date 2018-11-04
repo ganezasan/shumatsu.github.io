@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+    <title>週末ラヂオ</title>
+    <description>週末ラヂオでは週末開発しているTakaとおつくつんの雑談を収録しています。とってもゆるいラヂオです。</description>
+    <media:keywords>週末ラヂオ,ganezasan,otukutun,個人開発,個人プロダクト,NativeCamp,"Hi Native"</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>週末ラヂオでは週末開発しているTakaとおつくつんの雑談を収録しています。とってもゆるいラヂオです。</itunes:subtitle>
+    <itunes:author>ganezasan</itunes:author>
+    <itunes:summary>週末ラヂオでは週末開発しているTakaとおつくつんの雑談を収録しています。とってもゆるいラヂオです。</itunes:summary>
+    <itunes:keywords>週末ラヂオ,ganezasan,otukutun,個人開発,個人プロダクト,NativeCamp,"Hi Native"</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>ganezasan</itunes:name>
+      <itunes:email>info@shumatsu.life</itunes:email>
+    </itunes:owner>
+    <itunes:image href="/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>1. 週末ラヂオはじめます</title>
+        <link>/episode/1</link>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語学習について
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/exec/obidos/ASIN/4860641027/qid=1130860613/sr=1-1/ref=sr_1_2_1/249-7658144-2277937&quot;&gt;完全英語上達マップ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;NativeCamp&lt;/li&gt;
+      &lt;li&gt;速読英単語&lt;/li&gt;
+      &lt;li&gt;Hi Native&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;タスク管理アプリでGoogle Tasks使い始めた
+    &lt;ul&gt;
+      &lt;li&gt;これまでのタスク管理の変遷 =&amp;gt; Macのメモ帳, todoist, trello, paperにTODOかく&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;トラピリ(FX)を始めてみたい
+    &lt;ul&gt;
+      &lt;li&gt;今まで投資はウェルスナビ、積立NISAをやってきた。あとビットコイン&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;約束のネバーランドの11巻が発売&lt;/li&gt;
+  &lt;li&gt;テラスハウスの近況報告&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">/episode/1</guid>
+        <enclosure url="/audio/shumatsu-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第1回目のラヂオ収録で自己紹介。前半は英語学習についての進捗についてなんで勉強したいのか、どんな教材を使っているのかを話しています。後半は投資の話でトラピリ（FX）を初めてみたいという話とテラスハウスの魅力や今週の出来事について話してます。すっごいゆるい感じです。</itunes:subtitle>
+        <itunes:duration>30:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>
