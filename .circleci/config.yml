@@ -29,6 +29,7 @@ jobs:
           root: ./
           paths:
             - _site
+            - .circleci
   deploy:
     <<: *defaults
     steps:
