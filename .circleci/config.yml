@@ -1,0 +1,52 @@
+defaults: &defaults
+  working_directory: ~/repo
+  docker:
+    - image: circleci/ruby:2.4.1-node-browsers
+  environment:
+    BUNDLE_PATH: ~/repo/vendor/bundle
+    USER_NAME: ganezasan
+    USER_EMAIL: istaka12@gmail.com
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - rubygems-v1-{{ checksum "Gemfile.lock" }}
+      - run: bundle install
+      - save_cache:
+          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run:
+          name: jekyll Build
+          command: |
+            bundle exec jekyll build
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _site
+  deploy:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ./
+      - deploy:
+          name: Deploy Release to GitHub
+          command: |
+            bash .circleci/deploy-github-pages.sh
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
