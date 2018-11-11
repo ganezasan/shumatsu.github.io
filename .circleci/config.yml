@@ -26,16 +26,17 @@ jobs:
           command: |
             bundle exec jekyll build
       - persist_to_workspace:
-          root: ./
+          root: /home/circleci
           paths:
-            - _site
-            - .circleci
-            - .git
+            - .ssh
+            - repo/_site
+            - repo/.circleci
+            - repo/.git
   deploy:
     <<: *defaults
     steps:
       - attach_workspace:
-          at: ./
+          at: /home/circleci
       - deploy:
           name: Deploy Release to GitHub
           command: |
