@@ -30,6 +30,7 @@ jobs:
           paths:
             - _site
             - .circleci
+            - .git
   deploy:
     <<: *defaults
     steps:
