@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-30870234-11
 hashtag: shumatsu_life
 itunes_podcast_url:
 keywords: 週末ラヂオ,ganezasan,otukutun,個人開発,個人プロダクト,NativeCamp,"Hi Native"
@@ -30,6 +30,6 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 週末ラヂオ
+title_en: "SHUMATSU RADIO"
 github:
   url: https://shumatsu.life
-g_tracking_id: UA-30870234-11
