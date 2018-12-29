@@ -124,10 +124,9 @@ body {
     .header-heading a, .header-heading a:active, .header-heading a:focus, .header-heading a:hover {
       color: inherit; }
   .header-overlay {
-    background-color: rgba(0, 0, 0, 0.3);
     height: 100%;
-    padding-bottom: 96px;
-    padding-top: 96px; }
+    padding-bottom: 196px;
+    padding-top: 196px; }
 
 .list-group-element {
   color: rgba(0, 0, 0, 0.87);

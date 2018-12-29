@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
   <channel>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <link>/</link>
+    <atom:link href="https://shumatsu.life/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://shumatsu.life/</link>
     <title>週末ラヂオ</title>
     <description>週末ラヂオでは週末開発しているTakaとおつくつんの雑談を収録しています。とってもゆるいラヂオです。</description>
     <media:keywords>週末ラヂオ,ganezasan,otukutun,個人開発,個人プロダクト,NativeCamp,"Hi Native"</media:keywords>
@@ -16,13 +16,202 @@
       <itunes:name>ganezasan</itunes:name>
       <itunes:email>info@shumatsu.life</itunes:email>
     </itunes:owner>
-    <itunes:image href="/images/artwork.jpg" />
+    <itunes:image href="https://shumatsu.life/images/artwork.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
       <item>
+        <title>4. 第3回目の前編です。英語の進捗と今年の振り返りをしました。</title>
+        <link>https://shumatsu.life/episode/4</link>
+        <pubDate>Sat, 29 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語の勉強についての進捗
+    &lt;ul&gt;
+      &lt;li&gt;おつくつん
+        &lt;ul&gt;
+          &lt;li&gt;570 → 655(12月)&lt;/li&gt;
+          &lt;li&gt;DMM英会話を始めた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Taka
+        &lt;ul&gt;
+          &lt;li&gt;755 → 725(12月)&lt;/li&gt;
+          &lt;li&gt;瞬間英作文をやる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今年の振り返り
+    &lt;ul&gt;
+      &lt;li&gt;TAKA
+        &lt;ul&gt;
+          &lt;li&gt;転職結構たいへんだった
+            &lt;ul&gt;
+              &lt;li&gt;やめるのもっと早くてよかった&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;英語は時間のかかるものだから焦らず続ける&lt;/li&gt;
+          &lt;li&gt;継続できることが増えた
+            &lt;ul&gt;
+              &lt;li&gt;筋トレと英会話
+                &lt;ul&gt;
+                  &lt;li&gt;なんで続いているのか
+筋トレについては成長が感じられた。 &lt;a href=&quot;https://library.fit/&quot;&gt;Library&lt;/a&gt;はとても良い！みんながいいねくれる💪💪💪&lt;br /&gt;
+英会話については業務で必要だったこと、良い先生と会えたことが大事&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;なぞときBINGOについて
+            &lt;ul&gt;
+              &lt;li&gt;一緒になぞときBINGO作りたい方募集しています&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;おつくつん
+        &lt;ul&gt;
+          &lt;li&gt;英語にフォーカスした
+            &lt;ul&gt;
+              &lt;li&gt;計画的に勉強したら伸ばせたので計画力がついた気がする。あとは毎週振り返りとかしてて方向修正ができたのでここらへんはつづけていきたい&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;アプリつくってほぼ完成だけど、リリースできてない → なのでリリースしたい
+            &lt;ul&gt;
+              &lt;li&gt;ビールアプリ&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;仕事
+            &lt;ul&gt;
+              &lt;li&gt;iOS+API開発、開発ディレクションしつつReact+Railsで開発してた。
+できることの幅広がった気はする。あと、つよくなった？&lt;/li&gt;
+              &lt;li&gt;労働時間増えたが、HP・MP減るのでよくないなとちゃんとコントロールしながら働いていきたい
+筋肉をつける必要性&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/4</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-4.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第3回目の前編です。11月、12月のTOEICの結果や今年の振り返りで転職したことについてや、自分の開発しているサービスについて話しています。</itunes:subtitle>
+        <itunes:duration>52:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. 第2回目の後編です。アドベントカレンダーとテラスハウス、サッカーの話をしています</title>
+        <link>https://shumatsu.life/episode/3</link>
+        <pubDate>Sun, 11 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;アドベントカレンダー
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018&quot;&gt;Qiitaでアドベントカレンダー始まったよ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;テラスハウス
+    &lt;ul&gt;
+      &lt;li&gt;新しく2人入ってきた
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://mdpr.jp/news/detail/1803018&quot;&gt;福田愛大&lt;/a&gt; あとで画像みたら海外の人の見た目してました。&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://mdpr.jp/news/detail/1803017&quot;&gt;谷川りさこ&lt;/a&gt; アクティブに恋をしてみたい人らしい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soccer-time.net/14809.html&quot;&gt;川崎フロンターレ優勝&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;DAZNになってから理念強化分配金という賞金が登場して、ビッククラブができるかも&lt;/li&gt;
+      &lt;li&gt;サッカー漫画が好き！
+        &lt;ul&gt;
+          &lt;li&gt;BE BLUES!〜青になれ〜&lt;/li&gt;
+          &lt;li&gt;GIANT KILLING&lt;/li&gt;
+          &lt;li&gt;アオアシ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;振り返りで振り返りしてないラヂオです。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/3</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-3.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第2回目の後編です。基本的に雑談です。アドベントカレンダーとテラスハウス、サッカー観戦の話をしています。</itunes:subtitle>
+        <itunes:duration>31:02</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. 英語学習の進捗報告とBitriseの勉強会行ってきました</title>
+        <link>https://shumatsu.life/episode/2</link>
+        <pubDate>Sun, 11 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語学習の進捗について
+    &lt;ul&gt;
+      &lt;li&gt;おつくつん毎日2時間以上できました ^^
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%A9%B1%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%9E%AC%E9%96%93%E8%8B%B1%E4%BD%9C%E6%96%87%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id601669848?mt=8&quot;&gt;スラスラ話すための瞬間英作文シャッフルトレーニング&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Taka: 月曜日がんばった。週全体で14時間いきました
+        &lt;ul&gt;
+          &lt;li&gt;NativeCamp
+            &lt;ul&gt;
+              &lt;li&gt;月額料金を払えば何回でもレッスンを受けられる&lt;/li&gt;
+              &lt;li&gt;セルビアの人と話した&lt;/li&gt;
+              &lt;li&gt;ブラウザだけで完結するのはよい&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;TOEIC
+            &lt;ul&gt;
+              &lt;li&gt;パート7で英文の精読はじめました&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testnight.connpass.com/event/103068/&quot;&gt;Bitriseの勉強会&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;※ この勉強会の名前は音声では言えてませんが「CI/CD Test Night」です&lt;/li&gt;
+      &lt;li&gt;※ &lt;a href=&quot;https://www.bitrise.io/&quot;&gt;Bitrise&lt;/a&gt;はモバイルアプリ向けのCI/CDサービスです&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1YQWmngGvttZp9-NwCo4OTjPPOx79iJTNFSXcE1iDSA4/edit#slide=id.p&quot;&gt;プレゼン資料&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;GUIがとてもリッチ&lt;/li&gt;
+      &lt;li&gt;日本に本気で進出してくる気概を感じた。もらったTシャツ少しダサいｗ&lt;/li&gt;
+      &lt;li&gt;日本でサポートエンジニアの募集してた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「th」の発音むずい
+    &lt;ul&gt;
+      &lt;li&gt;theとか thatとかで1つの文にたくさんでてくる。舌を上の前歯につける感じ&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=u7BxxHXV1C0&quot;&gt;バイリンガール英会話&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/2</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-2.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第2回目の前編です。Aパートでは今週の英語学習の進捗報告とBitriseの勉強会参加してきた話をしています</itunes:subtitle>
+        <itunes:duration>28:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
         <title>1. 週末ラヂオはじめます</title>
-        <link>/episode/1</link>
+        <link>https://shumatsu.life/episode/1</link>
         <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
         <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
 &lt;ul&gt;
@@ -52,13 +241,13 @@
   &lt;li&gt;テラスハウスの近況報告&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <guid isPermaLink="true">/episode/1</guid>
-        <enclosure url="/audio/shumatsu-1.mp3" length="0" type="audio/mp3"/>
+        <guid isPermaLink="true">https://shumatsu.life/episode/1</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-1.mp3" length="0" type="audio/mp3"/>
         <itunes:author>ganezasan</itunes:author>
         <itunes:subtitle>第1回目のラヂオ収録で自己紹介。前半は英語学習についての進捗についてなんで勉強したいのか、どんな教材を使っているのかを話しています。後半は投資の話でトラピリ（FX）を初めてみたいという話とテラスハウスの魅力や今週の出来事について話してます。すっごいゆるい感じです。</itunes:subtitle>
         <itunes:duration>30:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-        <media:thumbnail url="/images/artwork.jpg"/>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
       </item>
     
   </channel>
