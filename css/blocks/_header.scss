@@ -29,4 +29,23 @@
     padding-bottom: 196px;
     padding-top: 196px;
   }
+
+  &-logo {
+    a {
+      &,
+      &:active,
+      &:focus,
+      &:hover {
+        color: #fff;
+        font-weight: 800;
+        font-size: 1.2rem;
+      }
+    }
+
+    left: 100px;
+    line-height: 2.4rem;
+    position: absolute;
+    top: 1rem;
+    z-index: 1;
+  }
 }
