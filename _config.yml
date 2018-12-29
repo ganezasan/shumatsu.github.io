@@ -30,4 +30,5 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 週末ラヂオ
-url: https://http://shumatsu.life
+github:
+  url: https://shumatsu.life
