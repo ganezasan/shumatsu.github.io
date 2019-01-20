@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics: UA-30870234-11
 hashtag: shumatsu_life
-itunes_podcast_url:
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/週末ラヂオ/id1448090818
 keywords: 週末ラヂオ,ganezasan,otukutun,個人開発,個人プロダクト,NativeCamp,"Hi Native"
 language: ja
 markdown: kramdown
