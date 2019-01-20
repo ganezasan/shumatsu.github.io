@@ -13,3 +13,11 @@ docker-compose up -d
 ```
 docker-compose exec jekyll bash
 ```
+
+## package update
+
+```
+docker-compose run --rm jekyll bundle update
+```
+
+
