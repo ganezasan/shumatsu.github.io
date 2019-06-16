@@ -21,14 +21,309 @@
     <itunes:explicit>no</itunes:explicit>
     
       <item>
-        <title>7. 第5回目の後編です。都内にマンション買いました。テラスハウスがホラーハウスに。</title>
+        <title>13. 第7回目の後半です。テラスハウス東京編はじまりました。スペイン旅行いってきました。</title>
+        <link>https://shumatsu.life/episode/13</link>
+        <pubDate>Sun, 16 Jun 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;テラスハウス
+    &lt;ul&gt;
+      &lt;li&gt;登場人物の紹介&lt;/li&gt;
+      &lt;li&gt;東京編は展開が早くてよい&lt;/li&gt;
+      &lt;li&gt;しょうへいくんの親方のコメントが辛辣&lt;/li&gt;
+      &lt;li&gt;はるかさん問題起こしそうで今後に期待（otukutun注目）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;スペインに旅行いきました
+    &lt;ul&gt;
+      &lt;li&gt;バルセロナの気候は最高
+        &lt;ul&gt;
+          &lt;li&gt;サグラダ・ファミリアいってきた&lt;/li&gt;
+          &lt;li&gt;アントニ・ガウディの言葉
+            &lt;ul&gt;
+              &lt;li&gt;全ては、自然が書いた偉大な書物を学ぶことから生まれる、人間が造る物は、既にその偉大な書物の中に書かれている
+　- ビルバオにはGame of thronesのシーズン７で出てくるドラゴンストーン城の舞台がある&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;サン・セバスチャンは寒かったけどタパス最高&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/13</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-13.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第7回目の後半です。テラスハウス東京編はじまりました。スペイン旅行いってきました。</itunes:subtitle>
+        <itunes:duration>29:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. 第7回目の前半です。個人アプリBeerHuntリリースしました！</title>
+        <link>https://shumatsu.life/episode/12</link>
+        <pubDate>Sun, 16 Jun 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語の勉強についての進捗
+    &lt;ul&gt;
+      &lt;li&gt;Taka
+        &lt;ul&gt;
+          &lt;li&gt;TOEIC5月の結果発表&lt;/li&gt;
+          &lt;li&gt;755→725→745→840→780→850&lt;/li&gt;
+          &lt;li&gt;単語の勉強はつまらないけど続けています。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;otukutun
+        &lt;ul&gt;
+          &lt;li&gt;TOEIC&lt;/li&gt;
+          &lt;li&gt;650 =&amp;gt; 550に下がってしまった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;個人開発について
+    &lt;ul&gt;
+      &lt;li&gt;Taka
+        &lt;ul&gt;
+          &lt;li&gt;なぞときBINGOを一新できました
+            &lt;ul&gt;
+              &lt;li&gt;Material-uiのv1を利用&lt;/li&gt;
+              &lt;li&gt;jestでのテストを追加&lt;/li&gt;
+              &lt;li&gt;CIの導入
+                &lt;ul&gt;
+                  &lt;li&gt;エミュレーターのテストで挙動が最初おかしかった&lt;/li&gt;
+                  &lt;li&gt;テスト中にDBが更新されていないことがあった&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;FirebaseのAPIのnodeのバージョンを6から8に挙げられた
+                &lt;ul&gt;
+                  &lt;li&gt;APIをasync,awaitでかけるようになりました&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;GWに広告でユーザーを募集したところ、効果があった&lt;/li&gt;
+              &lt;li&gt;今後は別の無料ツールを作り、集客をしたい&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;otukutun
+        &lt;ul&gt;
+          &lt;li&gt;個人アプリをようやくリリースしました (ビールハント Beer Hunt)
+            &lt;ul&gt;
+              &lt;li&gt;構想1年。1年前の開発合宿でsketchでデザインをつくってから、長かった。&lt;/li&gt;
+              &lt;li&gt;基本的に以前で使った技術を使った
+                &lt;ul&gt;
+                  &lt;li&gt;APIはRails、iOSはSwift、インフラはHerokuによせた&lt;/li&gt;
+                  &lt;li&gt;herokuはほんとに便利。pipelineなどで、stgやprodを一括管理できる。review appsみたいなやつでpull reqを作ったら、確認環境ができるしくみがある&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;地味に大変なこと
+                &lt;ul&gt;
+                  &lt;li&gt;開発的には技術的なチャレンジをしてないので、そこまで大変ではない&lt;/li&gt;
+                  &lt;li&gt;マスターデータを登録するのが地味に大変。色んな本を買って、ビール醸造所を調べているんだけど、重複ないか&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/12</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-12.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第7回目の前半です。個人アプリBeerHuntリリースしました！</itunes:subtitle>
+        <itunes:duration>29:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. 第6回目の後半です。アベンジャーズエンドゲーム最高！DYIハマった。</title>
+        <link>https://shumatsu.life/episode/11</link>
+        <pubDate>Sun, 28 Apr 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;テラスハウス
+    &lt;ul&gt;
+      &lt;li&gt;5/15から東京編はじまる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;なぞときBINGOの開発状況について
+    &lt;ul&gt;
+      &lt;li&gt;node6のサポートが2019年4月終了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DYIで洗濯機の上に棚作った
+    &lt;ul&gt;
+      &lt;li&gt;壁が石膏ボードだった&lt;/li&gt;
+      &lt;li&gt;インパクトドリルで穴開けた、最初裏はコンクリートだと思っていたが軽量鉄骨だった&lt;/li&gt;
+      &lt;li&gt;ラブリコを使って材料費1万弱でくらいで棚が作れた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アベンジャーズ　エンドゲーム観てきた。最高だった&lt;/li&gt;
+  &lt;li&gt;ライブいくつかいってきた
+    &lt;ul&gt;
+      &lt;li&gt;サカナクション x 2&lt;/li&gt;
+      &lt;li&gt;アジカン&lt;/li&gt;
+      &lt;li&gt;集団行動のライブは今日行ってくる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/11</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-11.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第6回目の後半です。アベンジャーズエンドゲーム最高！DYIハマった。</itunes:subtitle>
+        <itunes:duration>38:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. 第6回目の前半です。平成最後の収録。TOEIC800超えました。</title>
+        <link>https://shumatsu.life/episode/10</link>
+        <pubDate>Sun, 28 Apr 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語の勉強についての進捗
+    &lt;ul&gt;
+      &lt;li&gt;otukutun
+        &lt;ul&gt;
+          &lt;li&gt;英語はあまり進んでいない。アプリを作ろうかなと思って、そちらに集中&lt;/li&gt;
+          &lt;li&gt;aws udemyの講座をやっていた
+https://www.ketancho.net/entry/2018/09/03/074115&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Taka
+        &lt;ul&gt;
+          &lt;li&gt;TOEIC3月の結果発表 (755→725→745→840)
+            &lt;ul&gt;
+              &lt;li&gt;Part5の勉強頑張ったTOEIC L&amp;amp;R テスト文法でる1000問 一周やった&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;会社のイベントでChicagoに行ってきました&lt;/li&gt;
+          &lt;li&gt;GithubのJapanオフィスで「はじめての英語でプレゼン」というイベントに参加した&lt;/li&gt;
+          &lt;li&gt;次回からは会話も評価したいのでTOEFLを受けます&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/10</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-10.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第6回目の前半です。平成最後の収録。TOEIC800超えました。</itunes:subtitle>
+        <itunes:duration>23:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. 第5回目の後半です。テラスハウスがラスト間近。マイプロテイン安くていいです。</title>
+        <link>https://shumatsu.life/episode/9</link>
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;テラスハウス
+    &lt;ul&gt;
+      &lt;li&gt;りさこと田中ゆいが修羅場にならず。。。&lt;/li&gt;
+      &lt;li&gt;次がラスト。前回、2月5日がラストとお伝えしたけど、間違い。&lt;/li&gt;
+      &lt;li&gt;2/11 の今週がラスト。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;マイプロテイン安い（イギリスの会社で結構有名らしい）
+    &lt;ul&gt;
+      &lt;li&gt;https://www.myprotein.jp&lt;/li&gt;
+      &lt;li&gt;ホエイプロテイン5kgで9000円（割引使うと6000円〜7000円になりそう）&lt;/li&gt;
+      &lt;li&gt;ザバス（ホエイプロテイン100は1kg 4000円くらい&lt;/li&gt;
+      &lt;li&gt;紹介制度使うと最初の注文で500円割引とシェーカーがタダでついてきます
+        &lt;ul&gt;
+          &lt;li&gt;紹介リンク&lt;/li&gt;
+          &lt;li&gt;https://www.myprotein.jp/referrals.list?applyCode=TAKA-R1G&lt;/li&gt;
+          &lt;li&gt;紹介タグ&lt;/li&gt;
+          &lt;li&gt;TAKA-R1G&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/9</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-9.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第5回目の後半です。テラスハウスがラスト間近。マイプロテイン安くていいです。</itunes:subtitle>
+        <itunes:duration>32:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. 第5回目の前半です。TOEIC停滞中</title>
+        <link>https://shumatsu.life/episode/8</link>
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語の勉強についての進捗
+    &lt;ul&gt;
+      &lt;li&gt;Taka
+        &lt;ul&gt;
+          &lt;li&gt;TOEIC1月の結果発表。停滞中 (755→725→745)&lt;/li&gt;
+          &lt;li&gt;abceedいいね
+            &lt;ul&gt;
+              &lt;li&gt;金フレ、TOEICのリスニングをやってます&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;ネイティブキャンプで日本人カウンセリングで学習アドバイスを受けた&lt;/li&gt;
+          &lt;li&gt;DMM英会話で瞬間英作文を一回やってみた&lt;/li&gt;
+          &lt;li&gt;歌が歌えるようになってきた気がする（口が前よりも回る）
+            &lt;ul&gt;
+              &lt;li&gt;Queenのボヘミアンラプソディーを英語で歌おう&lt;/li&gt;
+              &lt;li&gt;https://www.youtube.com/watch?v=DYxC5JwAQno&amp;amp;t=479s&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;ブロックスと街コロを会社の合宿で英語でプレイした&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;otukutun
+        &lt;ul&gt;
+          &lt;li&gt;DMM英会話1000分、達成しそう&lt;/li&gt;
+          &lt;li&gt;4月のTOEICに申し込んだ&lt;/li&gt;
+          &lt;li&gt;シリコンバレー season 5まで観終わった
+            &lt;ul&gt;
+              &lt;li&gt;いま、フレンズみてる&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/8</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-8.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第5回目の前半です。TOEIC停滞中</itunes:subtitle>
+        <itunes:duration>35:18</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. 第4回目の後半です。都内にマンション買いました。テラスハウスがホラーハウスに。</title>
         <link>https://shumatsu.life/episode/7</link>
-        <pubDate>Sun, 27 Jan 2019 00:00:00 +0900</pubDate>
+        <pubDate>Sun, 20 Jan 2019 00:00:00 +0900</pubDate>
         <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;マンション購入について
     &lt;ul&gt;
-      &lt;li&gt;都内に新築でマンション買う&lt;/li&gt;
+      &lt;li&gt;都内に新築でマンション買いました&lt;/li&gt;
       &lt;li&gt;10箇所くらい見学では見に行き、将来住み替えしたかったので、交通の利便性と小学校の近くを優先した
         &lt;ul&gt;
           &lt;li&gt;ホントは湾岸のタワマン憧れてました&lt;/li&gt;
@@ -67,35 +362,36 @@
         <guid isPermaLink="true">https://shumatsu.life/episode/7</guid>
         <enclosure url="https://shumatsu.life/audio/shumatsu-7.mp3" length="0" type="audio/mp3"/>
         <itunes:author>ganezasan</itunes:author>
-        <itunes:subtitle>第5回目の後編です。都内にマンション買いました。テラスハウスがホラーハウスに。</itunes:subtitle>
+        <itunes:subtitle>第4回目の後半です。都内にマンション買いました。テラスハウスがホラーハウスに。</itunes:subtitle>
         <itunes:duration>35:18</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
       </item>
     
       <item>
-        <title>6. 第4回目の前編です。英語の学習状況について報告。</title>
+        <title>6. 第4回目の前半です。新年１回目です！</title>
         <link>https://shumatsu.life/episode/6</link>
-        <pubDate>Sun, 20 Jan 2019 01:00:00 +0900</pubDate>
+        <pubDate>Sun, 20 Jan 2019 00:00:00 +0900</pubDate>
         <description>&lt;h2 id=&quot;aパート&quot;&gt;Aパート&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Taka
+  &lt;li&gt;英語の勉強についての進捗
     &lt;ul&gt;
-      &lt;li&gt;TOEIC受けて来ました1月13日（日）&lt;/li&gt;
-      &lt;li&gt;NativeCampで復習がいまいちできていないので、少しもったいない状態になっている&lt;/li&gt;
-      &lt;li&gt;abceed便利
+      &lt;li&gt;Taka
         &lt;ul&gt;
-          &lt;li&gt;アプリでTOEICの過去問や練習問題を受けることができる&lt;/li&gt;
-          &lt;li&gt;abceedを紹介してた&lt;a href=&quot;https://hiroshix.hatenablog.com/entry/2019/01/14/001058&quot;&gt;記事&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;TOEIC受けて来ました1月13日（日）&lt;/li&gt;
+          &lt;li&gt;NativeCampで復習がいまいちできていないので、少しもったいない状態になっている&lt;/li&gt;
+          &lt;li&gt;abceedアプリ便利
+            &lt;ul&gt;
+              &lt;li&gt;TOEICの問題を簡単に試せる&lt;/li&gt;
+              &lt;li&gt;https://www.globeejapan.com/&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;otukutun
-    &lt;ul&gt;
-      &lt;li&gt;DMM英会話 500分ようやく突破
+      &lt;li&gt;otukutun
         &lt;ul&gt;
-          &lt;li&gt;マーベル作品の話だとだいたいみんな知ってて盛り上がる。マーベル作品すごい&lt;/li&gt;
+          &lt;li&gt;DMM英会話 500分ようやく突破&lt;/li&gt;
+          &lt;li&gt;英会話でマーベル作品の話だとだいたいみんな知ってて盛り上がる。マーベル作品すごい。&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -105,8 +401,8 @@
         <guid isPermaLink="true">https://shumatsu.life/episode/6</guid>
         <enclosure url="https://shumatsu.life/audio/shumatsu-6.mp3" length="0" type="audio/mp3"/>
         <itunes:author>ganezasan</itunes:author>
-        <itunes:subtitle>第4回目の前編。英語の学習状況について報告。abceedいいかも！</itunes:subtitle>
-        <itunes:duration>31:03</itunes:duration>
+        <itunes:subtitle>第4回目の前半です。新年１回目です！</itunes:subtitle>
+        <itunes:duration>22:22</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
       </item>
@@ -153,6 +449,43 @@
         <itunes:author>ganezasan</itunes:author>
         <itunes:subtitle>第3回目の後編です。Anova（低温調理器）すごいいい。2018年のベストバイでした。ふるさと納税も満額終わった。テラスハウスはSota先生の離脱。</itunes:subtitle>
         <itunes:duration>33:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. 第3回目の後編です。ボヘミアン・ラプソディ最高。テラスハウスはSo-Ta先生が引退!!!</title>
+        <link>https://shumatsu.life/episode/5</link>
+        <pubDate>Sat, 29 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;bパート&quot;&gt;Bパート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Netflix最近全然みてない
+    &lt;ul&gt;
+      &lt;li&gt;ボヘミアン・ラプソディ最高だった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anova低温調理器買いました。料理のクオリティが上がった&lt;/li&gt;
+  &lt;li&gt;ふるさと納税もほぼほぼ終えた　→　申請しないと
+    &lt;ul&gt;
+      &lt;li&gt;米（山形つや姫）、Amazonギフトカード2万分、ナッツ4kg、インドの青鬼1ケース、ステーキ、豚・鳥（4kg）&lt;/li&gt;
+      &lt;li&gt;コンビニで課税証明書（200円）で控除に反映されているか確認できる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;テラスハウス
+    &lt;ul&gt;
+      &lt;li&gt;収録が12/25とクリスマスまでなので、おそらく1月一杯で終わりそうな気がする。&lt;/li&gt;
+      &lt;li&gt;so-taせんせいが引退。&lt;/li&gt;
+      &lt;li&gt;週末課長がはいる(ゲスの極みのベースのひと)&lt;/li&gt;
+      &lt;li&gt;たなかゆいが心配&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shumatsu.life/episode/5</guid>
+        <enclosure url="https://shumatsu.life/audio/shumatsu-5.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>ganezasan</itunes:author>
+        <itunes:subtitle>第3回目の後編です。ボヘミアン・ラプソディ最高。テラスハウスはSo-Ta先生が引退!!!</itunes:subtitle>
+        <itunes:duration>35:16</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
         <media:thumbnail url="https://shumatsu.life/images/artwork.jpg"/>
       </item>
