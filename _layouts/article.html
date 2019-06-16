@@ -8,7 +8,7 @@
         <article class="article card">
           <header class="article-header card-header">
             <h1 class="card-heading">
-              <a href="{{ page.url | prepend:site.github.url }}">
+              <a href="{{ page.url }}">
                 {{ page.title }}
               </a>
             </h1>
@@ -23,7 +23,7 @@
                 controls=""
                 data-mejsoptions='{"alwaysShowControls": true, "alwaysShowHours": true, "enableAutosize": true, "features": ["playpause", "progress", "current", "duration", "volume", "speed"]}'
                 preload="auto"
-                src="{{ page.audio_file_path | prepend:site.github.url }}"
+                src="{{ page.audio_file_path }}"
                 width="100%"
               >
               </audio>
